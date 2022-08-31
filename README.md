@@ -5,10 +5,15 @@ Ce connecteur permet de générer un document (PDF, Excel, Word etc...) avec JSR
 Le JSON peut etre généré par une procedure stocké, Ex : 
 
 -- =============================================
+
 -- Author:		Noham CHOULANT
+
 -- Create date: 11/04/2022
+
 -- Description:	Permet de générer les données JSON
+
 -- =============================================
+
 CREATE PROCEDURE [FNB].[Get_JSON_FNB_PDF] 
 	@ID INT
 AS
