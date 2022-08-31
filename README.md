@@ -24,7 +24,7 @@ BEGIN
 SET @data = (
 
 	SELECT [id]
-	,ISNULL(Nom,'')						AS TypePatrimoine
+	,ISNULL(Nom,'')						AS Nom
 	,[Duree]
 	,(SELECT 
 		[MontantAnnuelM2]
