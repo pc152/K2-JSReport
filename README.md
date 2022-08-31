@@ -4,6 +4,8 @@ Ce connecteur permet de générer un document (PDF, Excel, Word etc...) avec JSR
 
 Le JSON peut etre généré par une procedure stocké, Ex : 
 
+...
+
 -- =============================================
 
 -- Author:		Noham CHOULANT
@@ -41,3 +43,7 @@ SET @data = (
 SELECT JSON_QUERY(@data, '$.DONNEE[0]') AS 'Result';
 
 END
+
+...
+
+
