@@ -1,0 +1,10 @@
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\bin\Debug\JSReportForK2.dll
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\bin\Debug\JSReportForK2.pdb
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\bin\Debug\jsreport.Client.dll
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\bin\Debug\jsreport.Shared.dll
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\bin\Debug\jsreport.Types.dll
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\bin\Debug\SourceCode.SmartObjects.Services.ServiceSDK.dll
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\bin\Debug\Newtonsoft.Json.dll
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\obj\Debug\JSReportForK2.dll
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\obj\Debug\JSReportForK2.pdb
+c:\users\k2adm\documents\visual studio 2015\Projects\JSReportForK2\JSReportForK2\obj\Debug\JSReportForK2.csprojResolveAssemblyReference.cache
